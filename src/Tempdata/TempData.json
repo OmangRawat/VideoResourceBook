@@ -1,0 +1,48 @@
+{
+    "result" :{
+        "1": [
+            {
+                "type": "img",
+                "content": "https://www.shutterstock.com/image-illustration/sinister-girl-anime-style-smiles-260nw-2022437660.jpg"
+            },
+            {
+                "type": "img",
+                "content": "https://img.freepik.com/premium-photo/anime-girl-night-cute-generative-ai_791316-5670.jpg?w=2000"
+            },
+            {
+                "type": "img",
+                "content": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41yfE6W7UUL._SX384_BO1,204,203,200_.jpg"
+            }
+        ],
+        "5": [
+            {
+                "type": "text",
+                "content": "5 Image"
+            }
+        ],
+        "10": [
+            {
+                "type": "text",
+                "content": "10 Image"
+            }
+        ],
+        "20": [
+            {
+                "type": "img",
+                "content": "https://www.shutterstock.com/image-vector/manga-eyes-looking-paper-tear-600w-1523804378.jpg"
+            }
+        ],
+        "25": [
+            {
+                "type": "text",
+                "content": "25 Image"
+            }
+        ],
+        "30": [
+            {
+                "type": "img",
+                "content": "https://www.shutterstock.com/image-vector/black-white-skull-tattoos-style-600w-1512655679.jpg"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+.previewResource {
+  width: 35%;
+  padding: 1.5vh;
+  margin-top: 5vh;
+  margin-left: 2vw;
+  padding-top: 5vh;
+  box-shadow: 2vh 2vh 2vh rgb(19, 159, 159);
+  border-radius: 1rem;
+  background-color: aliceblue;
+  font-size: xx-large;
+  font-weight: bold;
+  color: rgb(168, 175, 180);
+}
+.previewResource img {
+  height: 40vh;
+  width: 100%;
+}/*# sourceMappingURL=PreviewResource.css.map */

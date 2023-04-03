@@ -1,0 +1,27 @@
+.resourceList
+{
+    display: flex;
+    padding: 1.5vh;
+    margin-top: 5vh;
+    margin: 5vh 2vw 0 2vw;
+    box-shadow: 2vh 2vh 2vh rgb(19, 159, 159);
+    border-radius: 1rem;
+    background-color: aliceblue;
+    overflow-x: scroll;
+    .noResourcesYet
+    {
+        margin: auto;
+        font-size: xx-large;
+    }
+    .resourceTime
+    {
+        width: fit-content;
+        padding: 1vh;
+        background-color: black;
+        color: white;
+        border-radius: 10rem;
+        transform: scale(-1, -1);
+        writing-mode: vertical-rl;
+        box-shadow: 2px 2px 2px 2px rgb(82, 255, 59);
+    }
+}
